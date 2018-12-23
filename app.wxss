@@ -1,0 +1,16 @@
+/**app.wxss**/
+/* iconfont */
+@font-face {
+  font-family: 'iconfont';
+  src: url('/assets/iconfont/iconfont.eot');
+  src: url('/assets/iconfont/iconfont.eot?#iefix') format('embedded-opentype'),
+  url('/assets/iconfont/iconfont.woff') format('woff'),
+  url('/assets/iconfont/iconfont.ttf') format('truetype'),
+  url('/assets/iconfont/iconfont.svg#iconfont') format('svg');
+}
+.color {
+  color: #ff0000
+}
+.bgColor {
+  background-color: #ff0000
+}
